@@ -2,7 +2,7 @@
 
 ## Welcome to bljcyyds's Page
 
-My [github profile](https://github.com/bljcyyds)
+My github profile [https://github.com/bljcyyds](https://github.com/bljcyyds).
 
 You can use the [editor on GitHub](https://github.com/bljcyyds/bljcyyds.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
